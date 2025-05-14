@@ -1,0 +1,4 @@
+# More details:  https://github.com/carpe/devops-jenkins-libraries/blob/main/resources/io/carpe/ci/exampleConfig.yaml
+projects:
+  - name: sbt-codeartifact
+    archetype: scala
